@@ -1,2 +1,9 @@
 ---
+spring:
+  profiles: default
 lucky-word: Irish
+
+---
+spring:
+  profiles: northamerica
+lucky-word: Clover
